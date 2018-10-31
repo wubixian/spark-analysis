@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ScalaCompilerConfiguration">
+    <profile name="Maven 1" modules="sql">
+      <parameters>
+        <parameter value="-dependencyfile" />
+        <parameter value="E:\大数据\第9章 慕课网日志实战\p1867y\ImoocSparkSQLProject\target/.scala_dependencies" />
+      </parameters>
+    </profile>
+  </component>
+</project>
